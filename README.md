@@ -106,9 +106,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 -->
 
-<!--
-## Projects
-- Detection Lab
+
+## Upcomming Projects
+[ ]Detection Lab
 - SOC Automation Project
 - Malware Detector using Python
 - NFT Marketplace using Blockchain
@@ -117,7 +117,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - e-Voting system using BlockChain
 - Personal Bank payment gateway using Solidity
 - Simple Auction using Solidity
--->
+
 
 
 
