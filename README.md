@@ -58,9 +58,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- 
-
-
+- Malware Detector using Python
+- NFT Marketplace using Blockchain
+- Personalized Firewall using Python, Bash
+- File Zipper using C++
+- e-Voting system using BlockChain
+- Personal Bank payment gateway using Solidity
+- Simple Auction using Solidity
 
 
 
