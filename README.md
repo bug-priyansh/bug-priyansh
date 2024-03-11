@@ -59,7 +59,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />    <!--Javascript-->
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />    <!--PHP-->
-    <img src="	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />    <!--Swift-->
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />    <!--Swift-->
     <br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />    <!--MYSQL-->
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />    <!--mongodb-->
