@@ -7,13 +7,13 @@
 
 I am a Cyber Security Student with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+## ⇢ Objective
 <!--
     [Provide Objective - Remove this afterwards]]
 -->
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 <!--
-## Skills
+## ⇢ Skills
 -->
 <!--
     [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | <a href="">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="">SOC Automation Lab</a>|
 
-## Tools
+## ⇢ Tools
 -->
 
 <!--
@@ -95,7 +95,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 <!--
-## Certifications
+## ⇢ Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -107,8 +107,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 
-## Upcomming Projects
-[ ]Detection Lab
+## ⇢ Upcomming Projects
+- Detection Lab
 - SOC Automation Project
 - Malware Detector using Python
 - NFT Marketplace using Blockchain
