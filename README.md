@@ -107,8 +107,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 
+## ⇢ Recent Projects
+<a herf="https://github.com/k-priyansh/Cypertext" style="text-decoration:none">- Cypertext - python based cryptographic tool to encrypt and decrypt the text.
+
 <!--
-## ⇢ My Projects
 - Detection Lab
 - SOC Automation Project
 - Malware Detector using Python
