@@ -123,6 +123,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## ⇢ Upcomming Projects
+- Spidey - Custom linux distro based on `Kali Linux` [Working]
 - Detection Lab
 - SOC Automation Project
 - Malware Detector using Python
