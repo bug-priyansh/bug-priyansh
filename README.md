@@ -1,11 +1,11 @@
 # Hello, I'm Priyansh Khandal
 <a href="https://www.linkedin.com/in/priyanshkhandal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <!--
 [Brief Introduction - Remove this afterwards]
--->
-
 I am a Cyber Security Student with a profound interest in technology and a dedication to solving complex problems.
+-->
+Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applications degree. My focus also extends to Cyber Security, AI and Blockchain Development.
+
 
 ## ⇢ Objective
 <!--
@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## ⇢ Skills
 -->
 <!--
-    [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+    [Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
 -->
 <!--
 | Skill                                         | Associated Project         |
@@ -70,7 +70,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!--<br>-->
 <!--<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />    MYSQL-->
 <!--<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />    mongodb-->
-<!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />    postgresql--> 
+<!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />    PostgreSQL--> 
 <!--
 </div>
 -->
@@ -96,7 +96,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <!--
 ## ⇢ Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterward]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -108,7 +108,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## ⇢ Recent Projects
- - Cypertext - python based cryptographic tool to encrypt and decrypt the text. 
+ - Cypertext - a Python-based cryptographic tool to encrypt and decrypt the text. 
 
 <!--
 - Detection Lab
@@ -122,8 +122,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Simple Auction using Solidity
 -->
 
-## ⇢ Upcomming Projects
-- Spidey - Custom linux distro based on `Kali Linux` [Working]
+## ⇢ Upcoming Projects
+- Spidey - Custom Linux distro based on `Kali Linux` [Working]
 - Detection Lab
 - SOC Automation Project
 - Malware Detector using Python
